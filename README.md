@@ -1,4 +1,4 @@
-# Project-12: Containerization of Java Application using Docker
+# Containerization of Java Application using Docker
 
 [*Project Source*](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects)
 
